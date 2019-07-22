@@ -11,6 +11,7 @@ public class H2DemoApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		H2DemoApplication.main(new String[] {});
 	}
 
 }
